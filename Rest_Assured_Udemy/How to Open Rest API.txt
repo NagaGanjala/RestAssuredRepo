@@ -1,0 +1,10 @@
+Step1:
+>java -jar rest.jar  [by default it will take 8080 port]
+>java -jar rest.jar --server.port=8066 [if you want to change the port then we can do ]
+
+Step2:
+http://localhost:8080/student/list
+
+Step3: Official web site for rest-assured API
+http://rest-assured.io/
+Note: Here we can get rest-assured api classses and methods,sample examples and so on..etc
